@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://danhlv.github.io/unbound-thermal-app/sitemap_index.xml
